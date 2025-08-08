@@ -1,0 +1,8 @@
+body {font-family: sans-serif; background-color:#f4f4f4; color: #333; line-height: 1.6;margin: 0; padding: 20px;}
+.imagen-recetas {max-width: 100%; height: auto; display: block; margin: 0 auto;border-radius: 10px;}
+.video-recetas {display: black;margin: 0 auto;max-width: 100%;}
+main {max-width: 800px;margin:20px auto;padding: 20px; background-color: #fff;border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);text-align: center;}
+header {text-align: center; padding: 20px 0;}
+h1 { color: #4CAF50;}
+h2 {color: #666;}
+ul, ol {margin: 0 auto; text-align: left; display: table;}
